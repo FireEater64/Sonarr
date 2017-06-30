@@ -830,6 +830,9 @@
     <Compile Include="Extras\Metadata\MetadataType.cs" />
     <Compile Include="MetadataSource\IProvideSeriesInfo.cs" />
     <Compile Include="MetadataSource\ISearchForNewSeries.cs" />
+    <Compile Include="Notifications\Discord\Discord.cs" />
+    <Compile Include="Notifications\Discord\DiscordPayload.cs" />
+    <Compile Include="Notifications\Discord\DiscordSettings.cs" />
     <Compile Include="Notifications\Join\JoinAuthException.cs" />
     <Compile Include="Notifications\Join\JoinInvalidDeviceException.cs" />
     <Compile Include="Notifications\Join\JoinResponseModel.cs" />
